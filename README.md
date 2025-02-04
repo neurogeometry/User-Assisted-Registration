@@ -16,9 +16,13 @@ Therefore, this study evaluates a user-assisted approach for accurate nonrigid r
 * Set paths to the images, traces, or point sets in the User-Assisted Registration main window
 ### Sample Data ###
 * SampleData folder includes four types of sample datasets for 2D  image, 3D image, trace, and point set registration.
-*2D image data is taken from Category A for the FIRE: Fundus Image Registration Dataset. The complete dataset can be found [here]( https://projects.ics.forth.gr/cvrl/fire/). We include two images from this dataset that come in .jpg and .mat files
-*3D image data includes confocal microscope image stacks of FLP neurons in two C. elegans [related publication](). The images were cropped to focus on the cell bodies of these neurons and saved in 3D tiff file format.
-*Trace data is based on the FLP neuron images from the [related publication]( https://www.biorxiv.org/content/10.1101/2025.01.29.635549v1). The images were manually traced in 3D using [NCTracer](https://neurogeometry.sites.northeastern.edu/neural-circuit-tracer/ ). Traces of FLP neurons from two C. elegans of the same age are provided in .swc and .mat formats.
+
+* 2D image data is taken from Category A for the FIRE: Fundus Image Registration Dataset. The complete dataset can be found [here]( https://projects.ics.forth.gr/cvrl/fire/). We include two images from this dataset that come in .jpg and .mat files
+
+* 3D image data includes confocal microscope image stacks of FLP neurons in two C. elegans [related publication](). The images were cropped to focus on the cell bodies of these neurons and saved in 3D tiff file format.
+
+* Trace data is based on the FLP neuron images from the [related publication]( https://www.biorxiv.org/content/10.1101/2025.01.29.635549v1). The images were manually traced in 3D using [NCTracer](https://neurogeometry.sites.northeastern.edu/neural-circuit-tracer/ ). Traces of FLP neurons from two C. elegans of the same age are provided in .swc format.
+
 * Point set data was obtained from [here](https://github.com/bing-jian/gmmreg). It is associated with [“Robust Point Set Registration Using Gaussian Mixture Models” by B. Jian, B. Vemuri](https://ieeexplore.ieee.org/document/5674050).
 
 ### Contact ###
